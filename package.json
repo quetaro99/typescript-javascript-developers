@@ -1,0 +1,20 @@
+{
+  "name": "typescript-javascript-developers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quetaro99/typescript-javascript-developers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quetaro99/typescript-javascript-developers/issues"
+  },
+  "homepage": "https://github.com/quetaro99/typescript-javascript-developers#readme"
+}
