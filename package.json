@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/quetaro99/typescript-javascript-developers/issues"
   },
-  "homepage": "https://github.com/quetaro99/typescript-javascript-developers#readme"
+  "homepage": "https://github.com/quetaro99/typescript-javascript-developers#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
